@@ -14,7 +14,7 @@ This study analyzes the structural integrity of a 3D model under specific load c
 
 Here is a preview of the stress analysis results:
 
-![Static Stress Analysis Preview](Screenshot 2025-09-13 193622.png)
+![Static Stress Analysis Preview](https://github.com/Karthik-v202/FEA-Beam-Analysis/Screenshot 2025-09-13 193622.png)
 
 ## How to View the Full Report
 
