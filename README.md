@@ -10,12 +10,23 @@ This study analyzes the structural integrity of a 3D model under specific load c
 * **Material**: Stainless Steel
 * **Software**: Autodesk Fusion (2604.0.316)
 
-## How to View the Report
+## Preview
+
+Here is a preview of the stress analysis results:
+
+![Static Stress Analysis Preview](Screenshot 2025-09-13 193622.png)
+
+## How to View the Full Report
 
 The full interactive report is available as an HTML file.
 
 1.  **Download** the `Studies_Report_2025-09-13.html` file from this repository.
 2.  **Open it** in any web browser (like Chrome, Firefox, or Safari) to view the complete analysis.
+
+
+    ```markdown
+    
+    ```
 
 ## License
 
