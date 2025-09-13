@@ -14,13 +14,13 @@ This study analyzes the structural integrity of a 3D model under specific load c
 
 Here is a preview of the stress analysis results:
 
-![Static Stress Analysis Preview](https://github.com/Karthik-v202/FEA-Beam-Analysis/Screenshot 2025-09-13 193622.png)
+![Static Stress Analysis Preview](https://karthik-v202.github.io/FEA-Beam-Analysis/Screenshot%202025-09-13%20193622.png)
 
 ## How to View the Full Report
 
 The full interactive report is available as an HTML file.
 
-1.  **Download** the `Studies_Report_2025-09-13.html` file from this repository.
+1.  **Download** the `https://karthik-v202.github.io/FEA-Beam-Analysis/Studies_Report_2025-09-13.html` file from this repository.
 2.  **Open it** in any web browser (like Chrome, Firefox, or Safari) to view the complete analysis.
 
 
